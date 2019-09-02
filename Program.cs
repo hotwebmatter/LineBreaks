@@ -31,6 +31,13 @@ namespace LineBreaks
                     WriteMenu(message);
                     input = ReadLine();
                 }
+                /* TODO: Generalize algorithm as follows ...
+                 *       Accept a string as input from the user
+                 *       Iterate through all characters in string
+                 *       Option 1 prints entire string on one line
+                 *       Option 2 adds a newline after each comma
+                 *       Option 3 adds a newline after each space
+                 */
                 switch (choice)
                 {
                     case 0:
