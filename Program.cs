@@ -1,4 +1,13 @@
-﻿using System;
+/**
+ * ######################################################
+ * ##    Programming Assignment #6                     ##
+ * ##    Developer: Matthew Obert                      ##
+ * ##    Date Submitted: September 06 2019             ##
+ * ##    Purpose: Demo \n escape sequence.             ##
+ * ######################################################
+ */
+
+using System;
 using static System.Console;
 
 namespace LineBreaks
