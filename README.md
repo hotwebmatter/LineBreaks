@@ -1,6 +1,8 @@
 # LineBreaks
 Sixth programming exercise for C# class.
 
+Not actually assigned by professor, just based on exercise in textbook.
+
 This algorithm could be generalized to accept user-defined strings
 and format them for output according to three rules:
 
